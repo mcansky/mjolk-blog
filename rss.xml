@@ -1,6 +1,6 @@
 ---
 layout: rss
-title: Mjölk :: Bookmarks
+title: Mjölk - Bookmarks
 ---
 
     {% for post in site.posts %}

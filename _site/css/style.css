@@ -1,0 +1,215 @@
+body {
+  color: #000;
+  /*font-family: sans, times; */
+  font-family: 'Molengo', 'Adobe Caslon Pro', 'Hoefler Text', Garamond, serif;
+  font-size: 14pt;
+  line-height: 1.5em;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+	background: #EEE;
+}
+
+#tweet_c {
+	font-size: 10pt;
+	float: right;
+	margin-top: 150px;
+	width: 250px;
+	margin-right: 20px;
+	padding: 5px;
+	background: #DDD;
+	text-align: left;
+	border: 1px solid #CCC;
+}
+
+#tweet {
+	border-top: 2px dotted #CCC;
+}
+
+div.gist {
+	font-size: 12pt;
+	color: #999;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.tweet {
+	margin-top: 10px;
+}
+
+#tweet ul {
+	margin: 0;
+	padding: 0;
+}
+
+#tweet li {
+	list-style: none;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Myriad Pro', Corbel, 'Helvetica Neue', Helvetica, 'Lucida Grande', Verdana, sans-serif;
+}
+ul.posts {
+  font-family: 'Myriad Pro', Corbel, 'Helvetica Neue', Helvetica, 'Lucida Grande', Verdana, sans-serif;
+}
+.main {
+  width: 800px;
+
+}
+
+.banner {
+  width: 800px;
+  height: 400px;
+}
+
+img {
+	border: 0;
+}
+
+
+.title h1 {
+  font-size: 18pt;
+  font-weight: bold;
+  width: 40%;
+  text-align: center;
+  margin-bottom: 0;
+  color: #050505;
+}
+
+.useless {
+  color: #c3c3c3;
+  font-size: 8pt;
+  padding-top: 30px;
+  margin-left: -50px;
+}
+
+h2 {
+  font-size: 14pt;
+}
+
+.subtitle {
+  font-size: 10pt;
+  color: #c3c3c3;
+  margin-top: -2em;
+  margin-left: 30%;
+  padding: 0;
+  font-style: italic;
+}
+.menu {
+  font-size: 10pt;
+  color: #c3c3c3;
+  margin-top: 3em;
+  margin-left: 30%;
+  padding: 0;
+  font-style: italic;
+}
+
+.content {
+  text-align:left;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+}
+
+ul.posts {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.listdate {
+  font-style: italic;
+  color: #c3c3c3;
+  font-size: 10pt;
+}
+
+a {
+  letter-spacing: 2px;
+  color: #195A9A;
+  text-decoration: none;
+}
+
+.footer {
+  width: 100%;
+  border-top: 1px solid #c3c3c3;
+  background: #444;
+  position: absolute;
+  bottom: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 10pt;
+  letter-spacing: 1px;
+  white-space: 5px;
+  color: #c3c3c3;
+}
+
+.footer_box {
+  position: relative;
+  top: 250px;
+}
+
+.name {
+ font-style: normal;
+}
+
+.date {
+}
+
+.clear {
+	clear: both;
+}
+
+.gravatar {
+	float: left;
+	margin: 10px;
+	margin-bottom: 3px;
+	padding: 0;
+	width: 50px;
+}
+
+.gravatar img {
+	border: 1px solid #c3c3c3;
+}
+
+.footers {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
+
+.footers a, .footers a:hover {
+	font-weight: bold;
+}
+
+.footer-left {
+	float: left;
+	width: 45%;
+	margin-left: 0;
+}
+
+.footer-right {
+	float: right;
+	width: 45%;
+	margin-right: 0;
+}
+
+.footer ul {
+	padding: 0;
+	margin: 0;
+}
+
+.footer ul li {
+	list-style: none;
+}
+
+.footer h3 {
+	margin: 0;
+	padding: 0;
+}
+
+div.next_events p {
+  margin-left: 10px
+}
