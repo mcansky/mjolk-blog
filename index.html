@@ -1,0 +1,10 @@
+---
+layout: default
+title: Mjölk :: Bookmarks
+---
+
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span class="listdate">{{ post.date | date(&1, "%d %b %Y") }} &raquo;</span> <a class="list" href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>

@@ -1,0 +1,13 @@
+---
+layout: rss
+title: Mjölk :: Bookmarks
+---
+
+    {% for post in site.posts %}
+  <item>
+    <title>{{post.title}}</title>
+    <link>{{post.url}}</link>
+		<pubDate>{{post.date | date_to_short_string}}</pubDate>
+    <description>{{post.content | replace:"<","&lt;" | replace:">","&gt;"}}</description>
+  </item>
+    {% endfor %}

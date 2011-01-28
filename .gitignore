@@ -1,0 +1,10 @@
+_drafts/
+*~
+_posts/*~
+_layouts/*~
+bundler/
+.bundle/config
+.DS_Store
+*/.DS_Store
+_layouts/.DS_Store
+_site/.DS_Store

@@ -1,0 +1,6 @@
+	task :newp, [:title] do |t,args|
+        	post_date = Time.now.strftime("%Y-%m-%d")
+        	touch "_posts/#{post_date}-#{args.title}"
+        	vim "_posts/#{post_date}-#{args.title}"
+	end
+
