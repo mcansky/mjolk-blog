@@ -7,16 +7,16 @@
   <description>Mjölk project news</description>
       
   <item>
-    <title>Mjölk goes beta</title>
-    <link>/01-25-2011/Mjolk-goes-beta.html</link>
-		<pubDate>Tue Jan 25 21:20:00 +0100 2011</pubDate>
-    <description>&lt;h2&gt;Mjölk goes beta&lt;/h2&gt;
-&lt;p&gt;Pour ceux qui débarquent, Mjölk est un moteur de bibliothèque de bookmarks &lt;em&gt;à la&lt;/em&gt; Delicious. Le but est de fournir un moteur sous license &lt;span class="caps"&gt;MIT&lt;/span&gt;, comparable en terme de fonctionnalités : gestion de bookmarks, de tags, avec recherche et une api collée sur celle de delicious afin de faciliter le développement ou l&#8217;utilisation de librairie et clients existants.&lt;/p&gt;
-&lt;p&gt;Voila, après quelques petits debugs et améliorations ici et là j&#8217;ai pushé la &lt;a href="http://www.mjolk.net"&gt;v0.2 de Mjölk&lt;/a&gt; sur le serveur de prod et dans le &lt;a href="http://github.com/mcansky/mjolk"&gt;dépôt github de mjolk&lt;/a&gt;. Le changelog est directement dans le code : &lt;a href="https://github.com/mcansky/mjolk/blob/master/CHANGELOG.md"&gt;changelog dans le dépôt&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Au menu pas grand chose de terrible mis à part une amélioration de l&#8217;utilisation du cache, un fix mineur (mais relativement important en termes de conséquences) sur la navigation par tag, et &#8230; un nuage de tags dans la page de bookmarks d&#8217;un user.&lt;/p&gt;
-&lt;p&gt;L&#8217;api reste le point noir, il faut migrer le code concerné dans un controleur dédié et le compléter. L&#8217;import depuis delicious aussi est à améliorer.&lt;/p&gt;
-&lt;p&gt;Cependant, je pense que le code est désormais utilisable, et la version hostée à &lt;a href="http://www.mjolk.net"&gt;www.mjolk.net&lt;/a&gt; est utilisable dès à présent. Et je bosse sur un &lt;a href="https://github.com/mcansky/heroku-backup-orchestrator"&gt;backup automatisé&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;mise à jour&lt;/strong&gt;: rajout d&#8217;une introduction.&lt;/p&gt;</description>
+    <title>Mjölk goes beta and live</title>
+    <link>/01-28-2011/Mjolk-goes-beta-and-live.html</link>
+		<pubDate>Fri Jan 28 15:15:00 +0100 2011</pubDate>
+    <description>&lt;h2&gt;Mjölk goes beta and live&lt;/h2&gt;
+&lt;p&gt;Hello everyone, this is first post of the Mjölk blog. Mjölk is a bookmarking engine licensed under &lt;span class="caps"&gt;MIT&lt;/span&gt; to bring a simple alternative to some big names.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Mjölk is swedish for milk.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;It was mainly started to provide a safe harbor after the Delicious rumors. The goal was to create something that will be easily managed and perpetuated in all situations. But now it&#8217;s somehow different with a code base growing quickly and some ideas running.&lt;/p&gt;
+&lt;p&gt;We are working a lot to finish the first set of functionnalities but already there the really basic ones : bookmark with tags, tag clouds, private bookmarks.&lt;/p&gt;
+&lt;p&gt;The registration is open, with a 42 beta testers quota. After that (about 30 seats left right now) we will lock any new accounts until we finish some stages.&lt;/p&gt;
+&lt;p&gt;Until then some news will come here.&lt;/p&gt;</description>
   </item>
     
 

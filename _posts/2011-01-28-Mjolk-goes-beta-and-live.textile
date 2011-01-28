@@ -1,0 +1,20 @@
+---
+layout: post
+title: Mjölk goes beta and live
+categories: [info, ruby, rails, mjolk]
+date: 2011-01-28 15:15:00 +01:00
+---
+
+h2. Mjölk goes beta and live
+
+Hello everyone, this is first post of the Mjölk blog. Mjölk is a bookmarking engine licensed under MIT to bring a simple alternative to some big names.
+
+_Mjölk is swedish for milk._
+
+It was mainly started to provide a safe harbor after the Delicious rumors. The goal was to create something that will be easily managed and perpetuated in all situations. But now it's somehow different with a code base growing quickly and some ideas running.
+
+We are working a lot to finish the first set of functionnalities but already there the really basic ones : bookmark with tags, tag clouds, private bookmarks.
+
+The registration is open, with a 42 beta testers quota. After that (about 30 seats left right now) we will lock any new accounts until we finish some stages.
+
+Until then some news will come here.
