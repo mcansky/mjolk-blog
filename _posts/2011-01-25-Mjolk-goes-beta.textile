@@ -1,0 +1,20 @@
+---
+layout: post
+title: Mjölk goes beta
+categories: [info, ruby, rails, mjolk]
+date: 2011-01-25 21:20:00 +01:00
+---
+
+h2. Mjölk goes beta
+
+Pour ceux qui débarquent, Mjölk est un moteur de bibliothèque de bookmarks _à la_ Delicious. Le but est de fournir un moteur sous license MIT, comparable en terme de fonctionnalités : gestion de bookmarks, de tags, avec recherche et une api collée sur celle de delicious afin de faciliter le développement ou l'utilisation de librairie et clients existants.
+
+Voila, après quelques petits debugs et améliorations ici et là j'ai pushé la "v0.2 de Mjölk":http://www.mjolk.net sur le serveur de prod et dans le "dépôt github de mjolk":http://github.com/mcansky/mjolk. Le changelog est directement dans le code : "changelog dans le dépôt":https://github.com/mcansky/mjolk/blob/master/CHANGELOG.md.
+
+Au menu pas grand chose de terrible mis à part une amélioration de l'utilisation du cache, un fix mineur (mais relativement important en termes de conséquences) sur la navigation par tag, et ... un nuage de tags dans la page de bookmarks d'un user.
+
+L'api reste le point noir, il faut migrer le code concerné dans un controleur dédié et le compléter. L'import depuis delicious aussi est à améliorer.
+
+Cependant, je pense que le code est désormais utilisable, et la version hostée à "www.mjolk.net":http://www.mjolk.net est utilisable dès à présent. Et je bosse sur un "backup automatisé":https://github.com/mcansky/heroku-backup-orchestrator.
+
+*mise à jour*: rajout d'une introduction.
