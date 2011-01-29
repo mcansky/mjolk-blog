@@ -7,6 +7,16 @@
   <description>Mjölk project news</description>
       
   <item>
+    <title>API Rdoc</title>
+    <link>/01-29-2011/API-rdoc.html</link>
+		<pubDate>Sat Jan 29 23:15:00 +0100 2011</pubDate>
+    <description>&lt;h2&gt;&lt;span class="caps"&gt;API&lt;/span&gt; Rdoc&lt;/h2&gt;
+&lt;p&gt;After the work done on the api it&#8217;s only logical to publish the doc to use it. It&#8217;s available on the &lt;a href="https://github.com/mcansky/mjolk/wiki/API"&gt;github wiki&lt;/a&gt; and at &lt;a href="http://rdoc.info/github/mcansky/mjolk/master/V1/PostsController"&gt;rdoc.info&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For the moment only 5 over 15 methods are implemented. All 5 are in the posts section, the ones missing are mostly tags related. So be patient or get in to bring those to life.&lt;/p&gt;
+&lt;p&gt;As said in the wiki, the api is based on the Delicious &lt;span class="caps"&gt;API&lt;/span&gt; to make it easier to port, develop clients or libs. We also think it&#8217;s really simple, clean and efficient, so why not use it ?&lt;/p&gt;</description>
+  </item>
+    
+  <item>
     <title>One up v0.3.1</title>
     <link>/01-29-2011/One-up-v031.html</link>
 		<pubDate>Sat Jan 29 15:15:00 +0100 2011</pubDate>

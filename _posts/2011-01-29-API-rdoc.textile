@@ -1,0 +1,14 @@
+---
+layout: post
+title: API Rdoc
+categories: [info, ruby, rails, mjolk]
+date: 2011-01-29 23:15:00 +01:00
+---
+
+h2. API Rdoc
+
+After the work done on the api it's only logical to publish the doc to use it. It's available on the "github wiki":https://github.com/mcansky/mjolk/wiki/API and at "rdoc.info":http://rdoc.info/github/mcansky/mjolk/master/V1/PostsController.
+
+For the moment only 5 over 15 methods are implemented. All 5 are in the posts section, the ones missing are mostly tags related. So be patient or get in to bring those to life.
+
+As said in the wiki, the api is based on the Delicious API to make it easier to port, develop clients or libs. We also think it's really simple, clean and efficient, so why not use it ?
