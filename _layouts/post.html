@@ -12,9 +12,9 @@
 <body>
 <div class="title">
   <h1>{{ page.title }}</h1>
-<span class="useless">{{ page.content | number_of_words }} mots</span>
+<span class="useless">{{ page.content | number_of_words }} words</span>
   <span class="subtitle">
-  <a href="/" title="Index"><img src="/css/img/home.png" title="Index"/></a> |
+  <a href="/" title="Index"><img src="/css/img/home.png" title="Root"/></a> |
     {% for cat in page.categories %}
       <img src="/css/img/tag-label.png"/> <a class="categories" href="/categories.html#{{ cat }}">{{ cat }}</a></li>
     {% endfor %}
