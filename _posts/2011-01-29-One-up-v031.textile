@@ -1,0 +1,17 @@
+---
+layout: post
+title: One up v0.3.1
+categories: [info, ruby, rails, mjolk]
+date: 2011-01-29 15:15:00 +01:00
+---
+
+h2. One up : v0.3.1
+
+Beta release "v0.3.1 is out":https://github.com/mcansky/mjolk/tree/v0.3.1 and "running":http://www.mjolk.net. It features some interesting changes :
+
+* api support with basic http auth (more on this later, check the rdoc v1/posts)
+* fix the bookmarks deletion process when a user is deleting his account
+
+You can check the "Changelog":https://github.com/mcansky/mjolk/blob/v0.3.1/CHANGELOG.md on github.
+
+As always, you are most welcome to comment, test, post issues.

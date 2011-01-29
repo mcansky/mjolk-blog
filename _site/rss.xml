@@ -7,6 +7,20 @@
   <description>Mjölk project news</description>
       
   <item>
+    <title>One up v0.3.1</title>
+    <link>/01-29-2011/One-up-v031.html</link>
+		<pubDate>Sat Jan 29 15:15:00 +0100 2011</pubDate>
+    <description>&lt;h2&gt;One up : v0.3.1&lt;/h2&gt;
+&lt;p&gt;Beta release &lt;a href="https://github.com/mcansky/mjolk/tree/v0.3.1"&gt;v0.3.1 is out&lt;/a&gt; and &lt;a href="http://www.mjolk.net"&gt;running&lt;/a&gt;. It features some interesting changes :&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;api support with basic http auth (more on this later, check the rdoc v1/posts)&lt;/li&gt;
+	&lt;li&gt;fix the bookmarks deletion process when a user is deleting his account&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can check the &lt;a href="https://github.com/mcansky/mjolk/blob/v0.3.1/CHANGELOG.md"&gt;Changelog&lt;/a&gt; on github.&lt;/p&gt;
+&lt;p&gt;As always, you are most welcome to comment, test, post issues.&lt;/p&gt;</description>
+  </item>
+    
+  <item>
     <title>Mjölk goes beta and live</title>
     <link>/01-28-2011/Mjolk-goes-beta-and-live.html</link>
 		<pubDate>Fri Jan 28 15:15:00 +0100 2011</pubDate>
