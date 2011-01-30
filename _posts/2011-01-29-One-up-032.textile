@@ -1,0 +1,12 @@
+---
+layout: post
+title: One Up 0.3.2
+categories: [info, ruby, rails, mjolk]
+date: 2011-01-29 23:15:00 +01:00
+---
+
+h2. One Up : 0.3.2
+
+I could not resist the urge to code in order to fix some cache trouble and improve some other parts. So ... 0.3.2 is out.
+
+See "Changelog":https://github.com/mcansky/mjolk/blob/0.3.2/CHANGELOG.md for details.

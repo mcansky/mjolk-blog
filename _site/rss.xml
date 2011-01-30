@@ -7,6 +7,15 @@
   <description>Mjölk project news</description>
       
   <item>
+    <title>One Up 0.3.2</title>
+    <link>/01-29-2011/One-up-032.html</link>
+		<pubDate>Sat Jan 29 23:15:00 +0100 2011</pubDate>
+    <description>&lt;h2&gt;One Up : 0.3.2&lt;/h2&gt;
+&lt;p&gt;I could not resist the urge to code in order to fix some cache trouble and improve some other parts. So &#8230; 0.3.2 is out.&lt;/p&gt;
+&lt;p&gt;See &lt;a href="https://github.com/mcansky/mjolk/blob/0.3.2/CHANGELOG.md"&gt;Changelog&lt;/a&gt; for details.&lt;/p&gt;</description>
+  </item>
+    
+  <item>
     <title>API Rdoc</title>
     <link>/01-29-2011/API-rdoc.html</link>
 		<pubDate>Sat Jan 29 23:15:00 +0100 2011</pubDate>
