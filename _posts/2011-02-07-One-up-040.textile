@@ -12,7 +12,7 @@ Some days have passed, some code has been written, removed, rewritten, removed a
 - followers and followed users
 - users groups
 
-This is definetly not finished since the interface needs improvements, interconnections with some other services etc ... We also have the api is usable since 0.3.1 to post new bookmarks.
+This is definetly not finished since the interface needs improvements, interconnections with some other services etc ...
 
 So now we need some feedback, some bug reports : fiddle around and send us some feedback (on anything : design, features, bugs, ...) then pass the link to someone you know and who might be interested. There is still room for beta testers.
 
