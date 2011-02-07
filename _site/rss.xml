@@ -7,6 +7,19 @@
   <description>Mjölk project news</description>
       
   <item>
+    <title>One up 0.4</title>
+    <link>/02-07-2011/One-up-040.html</link>
+		<pubDate>Mon Feb 07 22:15:00 +0100 2011</pubDate>
+    <description>&lt;h2&gt;One up : 0.4&lt;/h2&gt;
+&lt;p&gt;Some days have passed, some code has been written, removed, rewritten, removed and rewritten. And we (yes, I had some help this time) are quite happy to release Mjölk 0.4. Still a beta, with probably some bugs here and there but it&#8217;s a big leap forward as two big features have been added :&lt;/p&gt;
+&lt;p&gt;- followers and followed users&lt;br /&gt;
+- users groups&lt;/p&gt;
+&lt;p&gt;This is definetly not finished since the interface needs improvements, interconnections with some other services etc &#8230; We also have the api is usable since 0.3.1 to post new bookmarks.&lt;/p&gt;
+&lt;p&gt;So now we need some feedback, some bug reports : fiddle around and send us some feedback (on anything : design, features, bugs, &#8230;) then pass the link to someone you know and who might be interested. There is still room for beta testers.&lt;/p&gt;
+&lt;p&gt;Thanks to madprog and neuro` for handy feedback and advices on code and design.&lt;/p&gt;</description>
+  </item>
+    
+  <item>
     <title>One Up 0.3.2</title>
     <link>/01-29-2011/One-up-032.html</link>
 		<pubDate>Sat Jan 29 23:15:00 +0100 2011</pubDate>
